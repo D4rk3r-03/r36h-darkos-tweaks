@@ -126,7 +126,7 @@ corre además `shellcheck`.
 
 ## Créditos y licencia
 
-D4rk3r-03 · Claudio. [MIT](./LICENSE).
+D4rk3r-03 · Claudio 🐾. [MIT](./LICENSE).
 
 Medido y probado en la consola de quien escribe. Si algo no te funciona igual, cuéntalo en un
 [issue](https://github.com/D4rk3r-03/r36h-darkos-tweaks/issues).

@@ -125,7 +125,7 @@ a DualShock.
 
 ## Credits and license
 
-D4rk3r-03 · Claudio. [MIT](./LICENSE).
+D4rk3r-03 · Claudio 🐾. [MIT](./LICENSE).
 
 Measured and tested on the author's own handheld. If something behaves differently for you, please open an
 [issue](https://github.com/D4rk3r-03/r36h-darkos-tweaks/issues).
